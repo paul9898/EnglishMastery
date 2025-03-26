@@ -190,7 +190,7 @@ export default function Home() {
           </div>
 
           {/* Present Tense Card */}
-          <GrammarCard title="Present Tense: Subject-Verb Agreement">
+          <GrammarCard title="1. Present Tense: Subject-Verb Agreement">
             <p className="mb-4">In English, verbs must agree with their subjects in the present tense. This is especially important with third-person singular subjects (he, she, it).</p>
 
             <div className="mb-6">
@@ -310,7 +310,7 @@ export default function Home() {
           </GrammarCard>
 
           {/* Past Tense Card */}
-          <GrammarCard title="Past Tense: Regular and Irregular Verbs">
+          <GrammarCard title="2. Past Tense: Regular and Irregular Verbs">
             <p className="mb-4">The past tense is used to talk about actions that happened in the past. Learning to use it correctly is essential for clear communication.</p>
 
             <div className="mb-6">
